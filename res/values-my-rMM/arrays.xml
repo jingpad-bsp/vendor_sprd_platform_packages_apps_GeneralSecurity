@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"ဖန္သားျပင္ လင္းအား"</item>
+<item>"အရန္ ဖန္သားျပင္"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"ဘလူးတုသ္"</item>
+<item>"ထိလွ်င္ တုန္ခါ ျပီး သတိေပးပါ"</item>
+<item>"တုန္ခါမႈ"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"ဖန္သားျပင္ လင္းအား"</item>
+<item>"အရန္ ဖန္သားျပင္"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ဘလူးတုသ္"</item>
+<item>"Wi-Fi ေဟာ့စေပါ့ "</item>
+<item>"ထိလွ်င္ တုန္ခါ ျပီး သတိေပးပါ"</item>
+<item>"ေဒတာ ခ်ိတ္ဆက္ျခင္း"</item>
+<item>"ေအာ္တို ဆင္း လုပ္ေန"</item>
+<item>"တုန္ခါမႈ"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"ဖန္သားျပင္ လင္းအား"</item>
+<item>"အရန္ ဖန္သားျပင္"</item>
+<item>"WLAN"</item>
+<item>"ေဒတာ ခ်ိတ္ဆက္ျခင္း"</item>
+<item>"GPS"</item>
+<item>"ဘလူးတုသ္"</item>
+<item>"ေအာ္တို ဆင္း လုပ္ေန"</item>
+<item>"Wi-Fi ေဟာ့စေပါ့ "</item>
+<item>"ထိလွ်င္ တုန္ခါ ျပီး သတိေပးပါ"</item>
+<item>"ေလယာဥ္ပ်ံသန္းစဥ္ပံုစံ"</item>
+<item>"တုန္ခါမႈ"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"ဖြင့္ပိတ္လွည့္မလား?"</item>
+<item>"ေအာ္တို ဆင္း ပိတ္လွ်င္ ေအပီပီတစ္ခ်ိဳ ့ ေအာ္တို ဆင္း ေဒတာအတြက္မရ,ဖြင့္မလား?"</item>
+</string-array>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"روشنایی صفحه نمایش"</item>
+<item>"صفحه آماده به کار"</item>
+<item>"Wi‑Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"لرزش و یادآوری هنگام لمس"</item>
+<item>لرزش</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"روشنایی صفحه نمایش"</item>
+<item>"صفحه آماده به کار"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"محل دسترسی Wi-Fi به اینترنت"</item>
+<item>"لرزش و یادآوری هنگام لمس"</item>
+<item>"اتصال داده‌ها"</item>
+<item>"همگام‌سازی خودکار"</item>
+<item>لرزش</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"روشنایی صفحه نمایش"</item>
+<item>"صفحه آماده به کار"</item>
+<item>"WLAN"</item>
+<item>"اتصال داده‌ها"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"همگام‌سازی خودکار"</item>
+<item>"محل دسترسی Wi-Fi به اینترنت"</item>
+<item>"لرزش و یادآوری هنگام لمس"</item>
+<item>"حالت هواپیما"</item>
+<item>لرزش</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"تغییر؟"</item>
+<item>"خاموش کردن همگام‌سازی خودکار باعث می‌شود بعضی از برنامه‌ها نتوانند داده‌ها را همگام‌سازی کنند، تغییر می‌دهید؟"</item>
+</string-array>
+</resources>

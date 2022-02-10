@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"ความสว่างของหน้าจอ"</item>
+<item>"หน้าจอสแตนด์บาย"</item>
+<item>"Wi\u2011Fi"</item>
+<item>"GPS"</item>
+<item>"บลูทูธ"</item>
+<item>"สั่นและแจ้งเตือนเมื่อสัมผัส"</item>
+<item>สั่น</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"ความสว่างของหน้าจอ"</item>
+<item>"หน้าจอสแตนด์บาย"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"บลูทูธ"</item>
+<item>"ฮอตสปอต Wi-Fi"</item>
+<item>"สั่นและแจ้งเตือนเมื่อสัมผัส"</item>
+<item>"การเชื่อมต่อข้อมูล"</item>
+<item>"การซิงโครไนซ์อัตโนมัติ"</item>
+<item>สั่น</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"ความสว่างของหน้าจอ"</item>
+<item>"หน้าจอสแตนด์บาย"</item>
+<item>"WLAN"</item>
+<item>"การเชื่อมต่อข้อมูล"</item>
+<item>"GPS"</item>
+<item>"บลูทูธ"</item>
+<item>"การซิงโครไนซ์อัตโนมัติ"</item>
+<item>"จฮอตสปอต Wi-Fi"</item>
+<item>"สั่นและแจ้งเตือนเมื่อสัมผัส"</item>
+<item>"โหมดใช้งานบนเครื่องบิน"</item>
+<item>สั่น</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"สลับหรือไม่?"</item>
+<item>"การปิดการซิงค์อัตโนมัติจะทำให้แอพบางแอพไม่สามารถซิงค์ข้อมูลอัตโนมัติ สลับหรือไม่?"</item>
+</string-array>
+</resources>

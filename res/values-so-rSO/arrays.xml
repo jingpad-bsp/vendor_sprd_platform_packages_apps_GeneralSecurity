@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Iftiinka shaashada"</item>
+<item>"Shidnaanta shaashada"</item>
+<item>"Wi\u2011Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Gariirka iyo xasuusinta marka lataabto"</item>
+<item>"Gariir"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Iftiinka shaashada"</item>
+<item>"Shidnaanta shaashada"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Kulkulaylka Wi-FI ga"</item>
+<item>"Gariirka iyo xasuusinta marka lataabto"</item>
+<item>"	Khadka data-da"</item>
+<item>"Raadinta tooska ah"</item>
+<item>"Gariir"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Iftiinka shaashada"</item>
+<item>"Shidnaanta shaashada"</item>
+<item>"WLAN"</item>
+<item>"	Khadka data-da"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Raadinta tooska ah"</item>
+<item>"Kulkulaylka Wi-FI ga"</item>
+<item>"Gariirka iyo xasuusinta marka lataabto"</item>
+<item>"Habka diyaarada"</item>
+<item>"Gariir"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Kabood?"</item>
+<item>"Daminta raadinta tooska ah waxay kuqasbaysaa app-yada qaarkood inay si toos ah usoosaai waayaan macluumaadka, madoonaysaa inaad damiso?"</item>
+</string-array>
+</resources>

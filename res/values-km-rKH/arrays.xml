@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"កម្រិតភ្លឺនៃស្គ្រីន"</item>
+<item>"ស្គ្រីនស្តេនបាយ៍"</item>
+<item>"Wi\u2011Fi"</item>
+<item>"GPS"</item>
+<item>"ប្លូធូត្ស"</item>
+<item>"មានការញ័រនិងរំលឹកពេលប៉ះ"</item>
+<item>រំញ័រ</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"កម្រិតភ្លឺនៃស្គ្រីន"</item>
+<item>"ស្គ្រីនស្តេនបាយ៍"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ប្លូធូត្ស"</item>
+<item>Wi-Fi hotspot</item>
+<item>"មានការញ័រនិងរំលឹកពេលប៉ះ"</item>
+<item>"តំណភ្ជាប់អ៊ីនធឺនែទូរស័ព្ទ"</item>
+<item>"ការធ្វើសមកាលកម្មដោយស្វ័យប្រវត្តិ"</item>
+<item>រំញ័រ</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"កម្រិតភ្លឺនៃស្គ្រីន"</item>
+<item>"ស្គ្រីនស្តេនបាយ៍"</item>
+<item>"WLAN"</item>
+<item>"តំណភ្ជាប់អ៊ីនធឺនែទូរស័ព្ទ"</item>
+<item>"GPS"</item>
+<item>"ប្លូធូត្ស"</item>
+<item>"ការធ្វើសមកាលកម្មដោយស្វ័យប្រវត្តិ"</item>
+<item>Wi-Fi hotspot</item>
+<item>"មានការញ័រនិងរំលឹកពេលប៉ះ"</item>
+<item>"ទម្រង់​យន្តហោះ"</item>
+<item>រំញ័រ</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"ផ្លាស់ប្តូរឬ?"</item>
+<item>"ការបិទការធ្វើសមកាលកម្មដោយស្វ័យប្រវត្តិ នឹងអាចបណ្តាលអោយកម្មវិធីខ្លះបរាជ័យក្នុងការធ្វើសមកាលកម្មទិន្នន័យដោយស្វ័យប្រវត្តិ តើធ្វើការផ្លាស់ប្តូឬ?"</item>
+</string-array>
+</resources>

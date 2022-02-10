@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"O brilho da tela"</item>
+<item>"Tela de espera"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Vibrar e lembrar quando tocar"</item>
+<item>"Alerta de vibração"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"O brilho da tela"</item>
+<item>"Tela de espera"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Ponto de acesso Wi-Fi"</item>
+<item>"Vibrar e lembrar quando tocar"</item>
+<item>"A conexão de dados"</item>
+<item>"Sincronização automática"</item>
+<item>"Alerta de vibração"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"O brilho da tela"</item>
+<item>"Tela de espera"</item>
+<item>"WLAN"</item>
+<item>"A conexão de dados"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Sincronização automática"</item>
+<item>"Ponto de acesso Wi-Fi"</item>
+<item>"Vibrar e lembrar quando tocar"</item>
+<item>"Modo avião"</item>
+<item>"Alerta de vibração"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Alterar?"</item>
+<item>"Desligar a sincronização automática faz com que alguns aplicativos não sincronizem dados automaticamente. Alterar?"</item>
+</string-array>
+</resources>

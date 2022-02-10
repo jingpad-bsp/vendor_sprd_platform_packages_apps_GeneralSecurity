@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Độ sáng của màn hình"</item>
+<item>"Màn hình chờ</item>
+<item>"Wi‑Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Rung và nhắc nhở khi chạm"</item>
+<item>Rung</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Độ sáng của màn hình"</item>
+<item>"Màn hình chờ</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"Rung và nhắc nhở khi chạm"</item>
+<item>"Kết nối dữ liệu"</item>
+<item>"Tự động đồng bộ hóa"</item>
+<item>Rung</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Độ sáng của màn hình"</item>
+<item>"Màn hình chờ</item>
+<item>"WLAN"</item>
+<item>"Kết nối dữ liệu"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Tự động đồng bộ hóa"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"Rung và nhắc nhở khi chạm"</item>
+<item>"Chế độ trên máy bay"</item>
+<item>Rung</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Chuyển đổi?"</item>
+<item>"Tắt đồng bộ tự động sẽ làm cho một số ứng dụng không tự động đồng bộ hóa dữ liệu, chuyển đổi?"</item>
+</string-array>
+</resources>

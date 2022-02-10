@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"ຄວາມສະຫວ່າງໜ້າຈໍ"</item>
+<item>"ໜ້າຈໍສະແຕນບາຍ"</item>
+<item>"Wi\u2011Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"ແຈ້ງແລະສັ່ນເມື່ອສຳພັດ"</item>
+<item>ສັ່ນ</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"ຄວາມສະຫວ່າງໜ້າຈໍ"</item>
+<item>"ໜ້າຈໍສະແຕນບາຍ"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Wi-Fi ຮອ໊ດ​ພອ໊ດ"</item>
+<item>"ແຈ້ງແລະສັ່ນເມື່ອສຳພັດ"</item>
+<item>"ການເຊື່ອມຕໍ່ຂໍ້ມູນ"</item>
+<item>"ຊິງ​ຄ໌ອັດຕະໂນມັດ"</item>
+<item>ສັ່ນ</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"ຄວາມສະຫວ່າງໜ້າຈໍ"</item>
+<item>"ໜ້າຈໍສະແຕນບາຍ"</item>
+<item>"WLAN"</item>
+<item>"ການເຊື່ອມຕໍ່ຂໍ້ມູນ"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"ຊິງ​ຄ໌ອັດຕະໂນມັດ"</item>
+<item>"Wi-Fi ຮອ໊ດ​ພອ໊ດ"</item>
+<item>"ແຈ້ງແລະສັ່ນເມື່ອສຳພັດ"</item>
+<item>"ໂໝດຍົນ"</item>
+<item>ສັ່ນ</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"ສັບປ່ຽນຫລືບໍ？"</item>
+<item>"ການປິດຊິງ​ຄ໌ອັດຕະໂນມັດຈະເຮັດໃຫ້ໂປແກຼມບາງສ່ວນບໍ່ສາມາດຊິງ​ຄ໌ຂໍ້ມູນອັດຕະໂນມັດ？"</item>
+</string-array>
+</resources>

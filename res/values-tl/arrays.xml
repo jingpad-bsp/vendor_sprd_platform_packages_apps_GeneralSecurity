@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Ang kaliwanagan ng iskren"</item>
+<item>"Istambay na iskren"</item>
+<item>"Wi‑Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Kinig-tunog at paalalahanin kung hihipuin"</item>
+<item>Vibration</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Ang kaliwanagan ng iskren"</item>
+<item>"Istambay na iskren"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"Kinig-tunog at paalalahanin kung hihipuin"</item>
+<item>"Ang koneksyon ng datos"</item>
+<item>"Awtomatikong sinkronisasyon"</item>
+<item>Vibration</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Ang kaliwanagan ng iskren"</item>
+<item>"Istambay na iskren"</item>
+<item>"WLAN"</item>
+<item>"Ang koneksyon ng datos"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Awtomatikong sinkronisasyon"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"Kinig-tunog at paalalahanin kung hihipuin"</item>
+<item>"Airplane mode"</item>
+<item>Vibration</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Suwits?"</item>
+<item>"Pag-o-OFF ng awtomatikong sync ay gumawa sa ibang mga app na awtomatikong mabigo mag-sync ng datos, lumipat?"</item>
+</string-array>
+</resources>

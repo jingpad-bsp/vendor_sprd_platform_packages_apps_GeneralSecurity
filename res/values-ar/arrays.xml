@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"سطوع الشاشة"</item>
+<item>"الشاشة بوضعية الاستعداد"</item>
+<item>"Wi‑Fi"</item>
+<item>"GPS"</item>
+<item>"بلوتوث"</item>
+<item>"الاهتزاز والتذكير عند اللمس"</item>
+<item>الإهتزاز</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"سطوع الشاشة"</item>
+<item>"الشاشة بوضعية الاستعداد"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"بلوتوث"</item>
+<item>"نقطة ساخنة واي-فاي"</item>
+<item>"الاهتزاز والتذكير عند اللمس"</item>
+<item>"اتصال البيانات"</item>
+<item>"المزامنة التلقائية"</item>
+<item>الإهتزاز</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"سطوع الشاشة"</item>
+<item>"الشاشة بوضعية الاستعداد"</item>
+<item>"WLAN"</item>
+<item>"اتصال البيانات"</item>
+<item>"GPS"</item>
+<item>"بلوتوث"</item>
+<item>"المزامنة التلقائية"</item>
+<item>"نقطة ساخنة واي-فاي"</item>
+<item>"الاهتزاز والتذكير عند اللمس"</item>
+<item>"وضع الطائرة"</item>
+<item>الإهتزاز</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"التبديل؟"</item>
+<item>"إيقاف تشغيل المزامنة التلقائية سيجعل بعض الملفات تفشل في المزامنة التلقائية للبيانات، تبديل؟"</item>
+</string-array>
+</resources>

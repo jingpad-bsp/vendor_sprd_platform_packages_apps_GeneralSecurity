@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Bildschirmhelligkeit"</item>
+<item>"Standby-Bildschirm"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Vibrieren und Erinnerung bei Berührung"</item>
+<item>Vibration</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Bildschirmhelligkeit"</item>
+<item>"Standby-Bildschirm"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"Vibrieren und Erinnerung bei Berührung"</item>
+<item>"Datenverbindung"</item>
+<item>"Automatische Synchronisation"</item>
+<item>Vibration</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Bildschirmhelligkeit"</item>
+<item>"Standby-Bildschirm"</item>
+<item>"WLAN"</item>
+<item>"Datenverbindung"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Automatische Synchronisation"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"Vibrieren und Erinnerung bei Berührung"</item>
+<item>"Flugmodus"</item>
+<item>Vibration</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Wechseln?"</item>
+<item>"Das Ausschalten der automatischen Synchronisation führt dazu, dass einige Apps Daten nicht mehr automatisch synchronisieren können. Wechseln?"</item>
+</string-array>
+</resources>

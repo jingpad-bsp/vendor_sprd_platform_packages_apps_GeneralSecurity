@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Яскравість екрану"</item>
+<item>"Екран в режимі очікування"</item>
+<item>"Wi‑Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Вібрація та нагадування при дотику"</item>
+<item>"вібрація"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Яскравість екрану"</item>
+<item>"Екран в режимі очікування"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Точка Wi-Fi"</item>
+<item>"Вібрація та нагадування при дотику"</item>
+<item>"Підключення до даних"</item>
+<item>"Автоматична синхронізація"</item>
+<item>"вібрація"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Яскравість екрану"</item>
+<item>"Екран в режимі очікування"</item>
+<item>"WLAN"</item>
+<item>"Підключення до даних"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Автоматична синхронізація"</item>
+<item>"Точка Wi-Fi"</item>
+<item>"Вібрація та нагадування при дотику"</item>
+<item>"Режим польоту"</item>
+<item>"вібрація"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Включити?"</item>
+<item>"При виключенні автоматичної синхронізації деякі програми не зможуть автоматично синхронізувати дані. Переключити?"</item>
+</string-array>
+</resources>

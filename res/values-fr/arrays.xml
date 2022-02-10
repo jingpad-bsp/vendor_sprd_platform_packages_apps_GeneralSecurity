@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Luminosité de l\'écran"</item>
+<item>"Écran de veille"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Vibration et rappel une fois touché"</item>
+<item>Vibreur</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Luminosité de l\'écran"</item>
+<item>"Écran de veille"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Point de connexion Wi-Fi"</item>
+<item>"Vibration et rappel une fois touché"</item>
+<item>"Connexion de données"</item>
+<item>"Synchronisation automatique"</item>
+<item>Vibreur</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Luminosité de l\'écran"</item>
+<item>"Écran de veille"</item>
+<item>"WLAN"</item>
+<item>"Connexion de données"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Synchronisation automatique"</item>
+<item>"Point de connexion Wi-Fi"</item>
+<item>"Vibration et rappel une fois touché"</item>
+<item>"Mode Avion"</item>
+<item>Vibreur</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Basculer?"</item>
+<item>"Désactivation de la synchronisation automatique va faire certaines apps ne parviennent pas à synchroniser automatiquement les données, basculer?"</item>
+</string-array>
+</resources>

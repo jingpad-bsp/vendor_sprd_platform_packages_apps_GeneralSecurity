@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"የመመልከቻው ብርሀን"</item>
+<item>"ተጠባባቂ መመልከቻ"</item>
+<item>"Wi‑Fi"</item>
+<item>"GPS"</item>
+<item>"ብሉቱዝ"</item>
+<item>"በተነካ ግዜ ተንቀጥቃጭና ማስታወሻው"</item>
+<item>መንቀጥቀጥ</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"የመመልከቻው ብርሀን"</item>
+<item>"ተጠባባቂ መመልከቻ"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ብሉቱዝ"</item>
+<item>"Wi-Fi ሆት ስፖትt"</item>
+<item>"በተነካ ግዜ ተንቀጥቃጭና ማስታወሻው"</item>
+<item>"የዳታ ግንኙነት"</item>
+<item>"አውቶማቲክ አብሮ ማስኬጃ"</item>
+<item>መንቀጥቀጥ</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"የመመልከቻው ብርሀን"</item>
+<item>"ተጠባባቂ መመልከቻ"</item>
+<item>"WLAN"</item>
+<item>"የዳታ ግንኙነት"</item>
+<item>"GPS"</item>
+<item>"ብሉቱዝ"</item>
+<item>"አውቶማቲክ አብሮ ማስኬጃ"</item>
+<item>"Wi-Fi ሆት ስፖትt"</item>
+<item>"በተነካ ግዜ ተንቀጥቃጭና ማስታወሻው"</item>
+<item>"የአውሮፕላን ሁነታ"</item>
+<item>መንቀጥቀጥ</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"ማብሪያ ማጥፊያ?"</item>
+<item>"በራሱ ማስኬጃን ማጥፋት አንዳንድ መተግበሪያዎች በራሳቸው ዳታ ማስኬዳቸውን እንዳይሰሩ ያደርጋል፣ ይጥፋ?"</item>
+</string-array>
+</resources>

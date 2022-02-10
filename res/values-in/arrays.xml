@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Penerangan Layar"</item>
+<item>"Layar Siaga"</item>
+<item>"Wi‑Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Getaran dan peringatan ketika disentuh"</item>
+<item>Vibrasi</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Penerangan Layar"</item>
+<item>"Layar Siaga"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Hotspot Wi-Fi"</item>
+<item>"Getaran dan peringatan ketika disentuh"</item>
+<item>"Koneksi data"</item>
+<item>"Sinkronisasi Otomatis"</item>
+<item>Vibrasi</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Penerangan Layar"</item>
+<item>"Layar Siaga"</item>
+<item>"WLAN"</item>
+<item>"Koneksi data"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Sinkronisasi Otomatis"</item>
+<item>"Hotspot Wi-Fi"</item>
+<item>"Getaran dan peringatan ketika disentuh"</item>
+<item>"Mode pesawat"</item>
+<item>Vibrasi</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Memilih?"</item>
+<item>"Menonaktifkan sync otomatis akan membuat beberapa aplikasi gagal ke data sync otomatis, memilih?"</item>
+</string-array>
+</resources>

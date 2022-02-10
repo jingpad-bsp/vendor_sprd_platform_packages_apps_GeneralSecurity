@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Η φωτεινότητα της οθόνης"</item>
+<item>"Οθόνη αναμονής"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Δόνηση και υπενθύμιση στην αφή"</item>
+<item>Δόνηση</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Η φωτεινότητα της οθόνης"</item>
+<item>"Οθόνη αναμονής"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Ενεργό σημείο Wi-Fi"</item>
+<item>"Δόνηση και υπενθύμιση στην αφή"</item>
+<item>"Η σύνδεση δεδομένων"</item>
+<item>"Αυτόματος συγχρονισμός"</item>
+<item>Δόνηση</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Η φωτεινότητα της οθόνης"</item>
+<item>"Οθόνη αναμονής"</item>
+<item>"WLAN"</item>
+<item>"Η σύνδεση δεδομένων"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Αυτόματος συγχρονισμός"</item>
+<item>"Ενεργό σημείο Wi-Fi"</item>
+<item>"Δόνηση και υπενθύμιση στην αφή"</item>
+<item>"Λειτουργία πτήσης"</item>
+<item>Δόνηση</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Εναλλαγή;"</item>
+<item>"Η απενεργοποίηση του αυτόματου συγχρονισμού θα προκαλέσει την αποτυχία του αυτόματου συγχρονισμού δεδομένων σε ορισμένες εφαρμογές, εναλλαγή;"</item>
+</string-array>
+</resources>

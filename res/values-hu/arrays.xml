@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"A képernyő fényereje"</item>
+<item>"Képernyő készenlét"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Rezgés és emlékeztetés érintéskor"</item>
+<item>Rezgés</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"A képernyő fényereje"</item>
+<item>"Képernyő készenlét"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"Rezgés és emlékeztetés érintéskor"</item>
+<item>"Adatkapcsolat"</item>
+<item>"Automatikus szinkronizálás"</item>
+<item>Rezgés</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"A képernyő fényereje"</item>
+<item>"Képernyő készenlét"</item>
+<item>"WLAN"</item>
+<item>"Adatkapcsolat"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Automatikus szinkronizálás"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"Rezgés és emlékeztetés érintéskor"</item>
+<item>"Repülési üzemmód"</item>
+<item>Rezgés</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Bekapcsolja?"</item>
+<item>"Az automatikus szinkronizálás kikapcsolása esetén néhány alkalmazás esetleg nem tudja automatikusan szinkronizálni az adatokat, folytatja?"</item>
+</string-array>
+</resources>

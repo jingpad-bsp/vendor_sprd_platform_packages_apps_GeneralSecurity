@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Ifa Argii"</item>
+<item>"Qophee argii"</item>
+<item>"Wi\u2011Fi"</item>
+<item>"GPS"</item>
+<item>"Walqunnamsiistuu"</item>
+<item>"yommuu tuqamuu yaadachisaa fi nama olachisaa"</item>
+<item>"Hollannaa"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Ifa Argii"</item>
+<item>"Qophee argii"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Walqunnamsiistuu"</item>
+<item>"Mallattoo Wi-Fi"</item>
+<item>"yommuu tuqamuu yaadachisaa fi nama olachisaa"</item>
+<item>"Quunnamtii deetaa"</item>
+<item>"Ofumaan walisimata"</item>
+<item>"Hollannaa"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Ifa Argii"</item>
+<item>"Qophee argii"</item>
+<item>"WLAN"</item>
+<item>"Quunnamtii deetaa"</item>
+<item>"GPS"</item>
+<item>"Walqunnamsiistuu"</item>
+<item>"Ofumaan walisimata"</item>
+<item>"Mallattoo Wi-Fi"</item>
+<item>"yommuu tuqamuu yaadachisaa fi nama olachisaa"</item>
+<item>"Bifa Xiyyaaraa"</item>
+<item>"Hollannaa"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Jijjiirruu?"</item>
+<item>"Ofumaan walisimata cuufun fayyadama kufisuun deetaa Ofumaan walisimata jijiirraa?"</item>
+</string-array>
+</resources>

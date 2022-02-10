@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Ekran parlaklığı"</item>
+<item>"Bekleme ekranı"</item>
+<item>"Kablosuz"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Dokunulduğunda titreşim yap ve hatırlat"</item>
+<item>Titreşim</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Ekran parlaklığı"</item>
+<item>"Bekleme ekranı"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Taşınabilir WiFi noktası"</item>
+<item>"Dokunulduğunda titreşim yap ve hatırlat"</item>
+<item>"Veri bağlantısı"</item>
+<item>"Otomatik senkronizasyon"</item>
+<item>Titreşim</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Ekran parlaklığı"</item>
+<item>"Bekleme ekranı"</item>
+<item>"WLAN"</item>
+<item>"Veri bağlantısı"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Otomatik senkronizasyon"</item>
+<item>"Taşınabilir WiFi noktası"</item>
+<item>"Dokunulduğunda titreşim yap ve hatırlat"</item>
+<item>"Uçak modu"</item>
+<item>Titreşim</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Değişsin mi?"</item>
+<item>"Otomatik senkronizasyonu kapatma bazı uygulamaların otomatik olarak senkronizasyon verisinde başarısız olmasına sebep olacak, değişsin mi ?"</item>
+</string-array>
+</resources>

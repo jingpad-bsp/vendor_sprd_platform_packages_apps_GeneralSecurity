@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Brillantor de la pantalla"</item>
+<item>"Pantalla d\'espera"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Vibració tàctil"</item>
+<item>Vibració</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Brillantor de la pantalla"</item>
+<item>"Pantalla d\'espera"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Punt d\'accés Wifi"</item>
+<item>"Vibració tàctil"</item>
+<item>"Connexió de dades"</item>
+<item>"Sincronització automàtica"</item>
+<item>Vibració</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Brillantor de la pantalla"</item>
+<item>"Pantalla d\'espera"</item>
+<item>"WLAN"</item>
+<item>"Connexió de dades"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Sincronització automàtica"</item>
+<item>"Punt d\'accés Wifi"</item>
+<item>"Vibració tàctil"</item>
+<item>"Mode d\'avió"</item>
+<item>Vibració</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Voleu canviar?"</item>
+<item>"Si desactiveu la sincronització automàtica algunes aplicacions no podran sincronitzar automàticament les dades, voleu canviar?"</item>
+</string-array>
+</resources>

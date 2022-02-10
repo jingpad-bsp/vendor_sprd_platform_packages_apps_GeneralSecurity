@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Kecerahan skrin"</item>
+<item>"Skrin tunggu sedia</item>
+<item>"Wi\u2011Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Getaran dan peringatan apabila disentuh"</item>
+<item>Getaran</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Kecerahan skrin"</item>
+<item>"Skrin tunggu sedia</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"Getaran dan peringatan apabila disentuh"</item>
+<item>"Sambungan data"</item>
+<item>"Penyegerakan Automatik"</item>
+<item>Getaran</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Kecerahan skrin"</item>
+<item>"Skrin tunggu sedia</item>
+<item>"WLAN"</item>
+<item>"Sambungan data"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Penyegerakan Automatik"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"Getaran dan peringatan apabila disentuh"</item>
+<item>"Mod pesawat”</item>
+<item>Getaran</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Tukar?"</item>
+<item>"Matikan segerak automatik akan membuatkan beberapa apl gagal untuk menyegerakkan data secara automatik,tukar?"</item>
+</string-array>
+</resources>

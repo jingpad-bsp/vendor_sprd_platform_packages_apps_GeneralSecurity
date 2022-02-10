@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"තිරයෙහි දීප්තිය"</item>
+<item>"පොරොත්තු තිරය"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"බ්ලූටූත්"</item>
+<item>"ස්පර්ශ කළ විට කම්පනය සහ සිහිකැඳවීම"</item>
+<item>"කම්පනය"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"තිරයෙහි දීප්තිය"</item>
+<item>"පොරොත්තු තිරය"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"බ්ලූටූත්"</item>
+<item>"Wi-Fi හොට්ස්පොට්"</item>
+<item>"ස්පර්ශ කළ විට කම්පනය සහ සිහිකැඳවීම"</item>
+<item>"දත්ත සබැඳුම"</item>
+<item>"ස්වයංක්‍රිය සමමුහුර්තකරනය"</item>
+<item>"කම්පනය"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"තිරයෙහි දීප්තිය"</item>
+<item>"පොරොත්තු තිරය"</item>
+<item>"WLAN"</item>
+<item>"දත්ත සබැඳුම"</item>
+<item>"GPS"</item>
+<item>"බ්ලූටූත්"</item>
+<item>"ස්වයංක්‍රිය සමමුහුර්තකරනය"</item>
+<item>"Wi-Fi හොට්ස්පොට්"</item>
+<item>"ස්පර්ශ කළ විට කම්පනය සහ සිහිකැඳවීම"</item>
+<item>"අහස්යානා ආකාරය"</item>
+<item>"කම්පනය"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"මාරු වන්නද?"</item>
+<item>"ස්වයංක්‍රිය සමමුහුර්ත කිරීම ක්‍රියාවිරහිත කිරීම සමහර යෙදුම් ස්වයංක්‍රියව දත්ත සමමුහුර්ත කිරීම නවත්වනු ඇත,මාරු වන්නද??"</item>
+</string-array>
+</resources>

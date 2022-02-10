@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"El brillo de la pantalla"</item>
+<item>"Pantalla en tiempo de espera"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Vibración y recordatorio cuando se toca"</item>
+<item>"Vibración"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"El brillo de la pantalla"</item>
+<item>"Pantalla en tiempo de espera"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Punto de acceso Wi-Fi"</item>
+<item>"Vibración y recordatorio cuando se toca"</item>
+<item>"La conexión de datos"</item>
+<item>"Sincronización automática"</item>
+<item>"Vibración"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"El brillo de la pantalla"</item>
+<item>"Pantalla en tiempo de espera"</item>
+<item>"WLAN"</item>
+<item>"La conexión de datos"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Sincronización automática"</item>
+<item>"Punto de acceso Wi-Fi"</item>
+<item>"Vibración y recordatorio cuando se toca"</item>
+<item>"Modo avión"</item>
+<item>"Vibración"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"¿Cambiar?"</item>
+<item>"Desactivando la sincronización automática hará que algunas aplicaciones no logren sincronizar automáticamente los datos, ¿cambiar?"</item>
+</string-array>
+</resources>

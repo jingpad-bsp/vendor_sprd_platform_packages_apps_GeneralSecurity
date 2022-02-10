@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">手机助手</string>
+    <string name="memory">内存管理</string>
+    <string name="storage">清理加速</string>
+    <string name="battery">省电管理</string>
+    <string name="flow">流量监控</string>
+    <string name="data">数据</string>
+    <string name="data1">SIM1</string>
+    <string name="data2">SIM2</string>
+    <string name="wlan">WLAN</string>
+    <string name="network_control">联网控制</string>
+    <string name="network_control_head">应用</string>
+    <string name="data_flow_management">流量管理</string>
+    <string name="data_flow_rank">流量排行</string>
+    <string name="data_flow_cycle">流量周期</string>
+    <string name="pref_data_cycle_default">本月</string>
+    <string name="data_cycle_week">本周</string>
+    <string name="data_cycle_day">今日</string>
+    <string name="data_restrict_sim">设置数据流量限制</string>
+    <string name="data_stat_description">数据流量的使用值以运营商实际出帐数据为准</string>
+    <string name="month_data_setting">每月套餐流量</string>
+    <string name="month_data_used">已用套餐流量</string>
+    <string name="data_unset">未设置</string>
+    <string name="restrict_setting">设置数据流量上限提醒</string>
+    <string name="data_restrict_month">每月流量上限提醒</string>
+    <string name="data_restrict_day">每日流量上限提醒</string>
+    <string name="warning_msg">%1$s本月流量使用已超过月流量限制的%2$d%%</string>
+    <string name="warning_msg_month_SIM">%1$s本月流量使用已超过月流量上限</string>
+    <string name="warning_msg_day_SIM">%1$s本日流量使用已超过日流量限制设定</string>
+    <string name="sim_changed">发现不同的SIM卡插入手机，请重新设置手机助手应用的流量管理功能</string>
+    <string name="data_flow_data">数据：%1$s</string>
+    <string name="data_flow_wifi">WLAN：%1$s</string>
+    <string name="operating_wait">正在设置，请稍后</string>
+    <string name="android_os">Android操作系统</string>
+    <string name="app_removed">应用已卸载</string>
+    <string name="show_real_time_speed">显示实时网速</string>
+    <string name="show_keyguard_data">锁屏消耗流量</string>
+    <string name="current_speed_default">当前</string>
+    <string name="network_order_des">(按照数据和WLAN用量总和进行排序)</string>
+
+    <string name="network_speed">%1$s：%2$s</string>
+    <string name="data_used_lockscreen_title">锁屏流量消耗</string>
+    <string name="data_used_lockscreen_message">锁屏期间流量消耗：%1$s</string>
+
+    <string name="can_rubbish_ram">已用内存：<xliff:g id="NUMPROCESS">%1$s</xliff:g>，已释放<xliff:g id="SPACEPROCESS">%2$s</xliff:g></string>
+    <string name="used_ram"><xliff:g id="NUMPROCESS">%1$s</xliff:g>个程序在运行，清理后可预计释放<xliff:g id="SPACEPROCESS">%2$s</xliff:g></string>
+    <string name="start_memory_button">一键清理</string>
+    <string name="end_memory_button">清理完成</string>
+    <string name="doing_memory_button">正在清理</string>
+    <string name="nothing_can_removed">无可清理项</string>
+    <string name="batetry_hardware_list">硬件耗电排行</string>
+    <string name="batetry_software_list">软件耗电排行</string>
+    <string name="controls_subtitle">"省电提示"</string>
+    <string name="details_subtitle">"详细使用情况"</string>
+    <string name="battery_history_hours"><xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m <xliff:g id="seconds">%3$d</xliff:g>s</string>
+    <string name="battery_history_minutes"><xliff:g id="minutes">%1$d</xliff:g>m <xliff:g id="seconds">%2$d</xliff:g>s</string>
+    <string name="battery_history_seconds"><xliff:g id="seconds">%1$d</xliff:g>s</string>
+    <string name="battery_history_days_no_seconds"><xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m</string>
+    <string name="battery_history_hours_no_seconds"><xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m</string>
+    <string name="battery_history_minutes_no_seconds"><xliff:g id="minutes">%1$d</xliff:g>m</string>
+    <string name="battery_history_days"><xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m <xliff:g id="seconds">%4$d</xliff:g>s</string>
+    <string name="battery_history_millis"><xliff:g id="millis">%.2f</xliff:g>ms</string>
+
+    <string name="internal_storage">内部存储</string>
+    <string name="external_storage">外部存储</string>
+
+    <string name="cache_file">缓存文件</string>
+    <string name="rubbish_file">垃圾文件</string>
+    <string name="invalid_file">无效文件</string>
+    <string name="temp_file">临时文件</string>
+    <string name="large_file">大文件</string>
+
+    <string name="storage_size">0</string>
+    <string name="score_storage_label">M</string>
+    <string name="symbol">">"</string>
+
+    <string name="start_scan_button">开始扫描</string>
+    <string name="stop_scan_button">停止扫描</string>
+    <string name="clean_memory_button">一键清理加速</string>
+    <string name="doing_scan_memory_button">正在扫描</string>
+    <string name="end_clean_memory_button">完成</string>
+    <string name="clear_memory">手机很干净</string>
+    <string name="already_checked">已选文件大小</string>
+    <string name="clean_storage_menu">清理</string>
+    <string name="cleaning_wait">正在清理，请稍后</string>
+    <string name="use_gs_in_owner">请在机主用户下使用，稍后将不会在此界面出现手机助手应用</string>
+    <string name="settings_safetylegal_activity_loading">正在加载\u2026</string>
+    <string name="running_processes_header_apps">应用</string>
+    <string name="max_data_flow_value">超出最大值，设为5000000</string>
+
+    <string name="no_running_services">无可清理项</string>
+    <string name="sdcard_state_inserted">SD卡已插入</string>
+    <string name="sdcard_state_removed">SD卡已拔出</string>
+    <string name="tether_settings_title_all">网络共享与便携式热点</string>
+    <string name="score_label">分</string>
+    <string name="start_optimize_button">立即优化</string>
+    <string name="stop_optimize_button">停止优化</string>
+    <string name="start_optimize_prompt">手机状态良好，点击下方按钮优化</string>
+    <string name="keep_prompt">手机状态良好，请保持</string>
+    <string name="stop_optimize_prompt">系统正在优化，点击下方按钮停止</string>
+    <string name="scanning">正在评分...</string>
+    <string name="optimizing">正在优化</string>
+    <string name="rubbish_file_scan">垃圾文件扫描</string>
+    <string name="prepare_optimize">准备优化</string>
+    <string name="finish_optimize">完成</string>
+    <string name="month_data_remained">本月剩余流量%1$s</string>
+    <string name="running_process">正在运行的后台应用</string>
+    <string name="data_control">数据流量限制</string>
+    <string name="clean_rubbish"><xliff:g id="NUMRUBBISH">%1$s</xliff:g> 垃圾文件已清理</string>
+    <string name="no_rubbish">无垃圾文件</string>
+    <string name="clean_running_process">已结束 <xliff:g id="NUMPROCESS">%1$s</xliff:g> 个应用，释放 <xliff:g id="SPACEPROCESS">%2$s</xliff:g> 内存</string>
+    <string name="data_set">已设置</string>
+    <string name="file_type_name">未知的文件类型</string>
+    <string name="file_cleaned">建议清理</string>
+    <string name="file_uncleaned">谨慎清理</string>
+
+    <string name="file_bak_ext">Bak 文件</string>
+    <string name="file_log_ext">Log 文件</string>
+    <string name="file_tmp_ext">临时文件</string>
+    <string name="file_apk_ext">APK 文件</string>
+    <string name="file_cache1_ext">应用系统缓存</string>
+    <string name="file_cache2_ext">应用缓存文件</string>
+    <string name="file_large_ext">其它大文件</string>
+    <string name="file_large_audio_ext">音频文件</string>
+    <string name="file_large_video_ext">视频文件</string>
+
+    <string name="df_remained_title">剩余流量</string>
+    <string name="network_control_software">联网软件</string>
+    <string name="df_all_title">总共：</string>
+    <string name="network_sorderbydata">按照移动数据排序</string>
+    <string name="network_sorderbywlan">按照WLAN数据排序</string>
+    <string name="data_str">数据：</string>
+    <string name="wifi_str">WLAN：</string>
+    <string name="data_flow">0M</string>
+    <string name="wifi_flow">0M</string>
+    <string name="warning_remain_msg">%1$s本月剩余流量已低于月流量限制</string>
+
+    <string name="data_flow1">数据：%1$s</string>
+    <string name="wifi_flow1">WLAN：%1$s</string>
+
+    <string name="sim_count_change">SIM卡变化， 请重新进入。</string>
+</resources>

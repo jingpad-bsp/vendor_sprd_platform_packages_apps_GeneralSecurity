@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Pantailaren distira"</item>
+<item>"Pantaila egonean"</item>
+<item>Wi-Fi</item>
+<item>"GPS"</item>
+<item>Bluetooth</item>
+<item>"Dar-dar egin eta gogorarazi ukitzean"</item>
+<item>Bibrazioa </item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Pantailaren distira"</item>
+<item>"Pantaila egonean"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>Bluetooth</item>
+<item>Wi-Fi sargunea</item>
+<item>"Dar-dar egin eta gogorarazi ukitzean"</item>
+<item>"Datu konexioa"</item>
+<item>"Sinkronizazio automatikoa"</item>
+<item>Bibrazioa </item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Pantailaren distira"</item>
+<item>"Pantaila egonean"</item>
+<item>"WLAN"</item>
+<item>"Datu konexioa"</item>
+<item>"GPS"</item>
+<item>Bluetooth</item>
+<item>"Sinkronizazio automatikoa"</item>
+<item>Wi-Fi sargunea</item>
+<item>"Dar-dar egin eta gogorarazi ukitzean"</item>
+<item>Hegazkin modua</item>
+<item>Bibrazioa </item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Aldatu?"</item>
+<item>"Sinkronizazio automatikoa desaktibatzean aplikazio batzuek ezingo dute informazioa automatikoki eguneratu, aldatu?"</item>
+</string-array>
+</resources>

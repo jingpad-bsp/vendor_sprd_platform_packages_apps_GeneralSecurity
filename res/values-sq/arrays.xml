@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Ndriçimi i ekranit"</item>
+<item>"Ekrani në pritje"</item>
+<item>"Wi\u2011Fi"</item>
+<item>"GPS"</item>
+<item>Bluetooth</item>
+<item>"Dridhje dhe kujtesë në prekje"</item>
+<item>Dridhje</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Ndriçimi i ekranit"</item>
+<item>"Ekrani në pritje"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>Bluetooth</item>
+<item>Hotspot Wi-Fi</item>
+<item>"Dridhje dhe kujtesë në prekje"</item>
+<item>"Lidhja e internetit celular"</item>
+<item>"Sinkronizim automatik"</item>
+<item>Dridhje</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Ndriçimi i ekranit"</item>
+<item>"Ekrani në pritje"</item>
+<item>"WLAN"</item>
+<item>"Lidhja e internetit celular"</item>
+<item>"GPS"</item>
+<item>Bluetooth</item>
+<item>"Sinkronizim automatik"</item>
+<item>Hotspot Wi-Fi</item>
+<item>"Dridhje dhe kujtesë në prekje"</item>
+<item>Metoda Aeroplan</item>
+<item>Dridhje</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Fik?"</item>
+<item>"Fiksja e sinkronizimit automatik do të bëjë që disa aplikacione të mos sinkronizohen automatikisht, doni ta fikni?"</item>
+</string-array>
+</resources>

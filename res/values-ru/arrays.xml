@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="ask_for_dialog">
+<item>"Включить?"</item>
+<item>"При выключении автоматической синхронизации некоторые приложения не смогут автоматически синхронизировать данные. Переключить?"</item>
+</string-array>
+    <string-array name="mode_title">
+        <item>"Яркость экрана"</item>
+        <item>"Wi-Fi"</item>
+        <item>"GPS"</item>
+        <item>"Bluetooth"</item>
+        <item>"Вибрация и напоминание при прикосновении"</item>
+        <item>"Вибрация"</item>
+        <item>Вибрация</item>
+    </string-array>
+     <string-array name="title_for_long">
+        <item>"Яркость экрана"</item>
+        <item>"WLAN"</item>
+        <item>"GPS"</item>
+        <item>"Bluetooth"</item>
+        <item>"Точка Wi-Fi"</item>
+        <item>"Вибрация и напоминание при прикосновении"</item>
+        <item>"Автоматическая синхронизация"</item>
+        <item>"Вибрация"</item>
+        <item>"Автоматическая синхронизация"</item>
+        <item>Вибрация</item>
+    </string-array>
+     <string-array name="title_for_sleep">
+        <item>"Яркость экрана"</item>
+        <item>"WLAN"</item>
+        <item>"GPS"</item>
+        <item>"Bluetooth"</item>
+        <item>"Автоматическая синхронизация"</item>
+        <item>"Точка Wi-Fi"</item>
+        <item>"Вибрация и напоминание при прикосновении"</item>
+        <item>"Режим полета"</item>
+        <item>"Вибрация"</item>
+        <item>"Режим полета"</item>
+        <item>Вибрация</item>
+    </string-array>
+
+</resources>

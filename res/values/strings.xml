@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">General Security</string>
+    <string name="memory">Memory management</string>
+    <string name="storage">Storage management</string>
+    <string name="battery">Power management</string>
+    <string name="flow">Data flow management</string>
+    <string name="data">Data</string>
+    <string name="data1">SIM1</string>
+    <string name="data2">SIM2</string>
+    <string name="wlan">Wi\u2011Fi</string>
+    <string name="network_control">Network control</string>
+    <string name="network_control_head">Apps</string>
+    <string name="network_order_des">(Ordered by the sum of data and Wi\u2011Fi usage)</string>
+    <string name="data_flow_management">Data flow management</string>
+    <string name="data_flow_rank">Data flow rank</string>
+    <string name="data_flow_cycle">Data flow cycle</string>
+    <string name="pref_data_cycle_default">This month</string>
+    <string name="data_cycle_week">This week</string>
+    <string name="data_cycle_day">Today</string>
+    <string name="data_stat_description">For accurate data, please query from the operator</string>
+    <string name="data_flow_data">Data: %1$s</string>
+    <string name="data_flow_data1">SIM1: %1$s</string>
+    <string name="data_flow_data2">SIM2: %1$s</string>
+    <string name="data_flow_wifi">Wi\u2011Fi: %1$s</string>
+    <string name="data_flow_sum">%1$s</string>
+    <string name="operating_wait">Setting is ongoing, please wait</string>
+
+    <string name="data_restrict_sim">Data restrict setting</string>
+    <string name="month_data_setting">Data setting for this month</string>
+    <string name="month_data_used">Data used this month</string>
+    <string name="data_unset">Unset</string>
+    <string name="show_real_time_speed">Show real time network speed</string>
+    <string name="show_keyguard_data">The data of keyguard</string>
+    <string name="current_speed_default">Current</string>
+
+    <string name="restrict_setting">Reminder setting for data restriction</string>
+    <string name="data_restrict_month">Notification for month data restriction</string>
+    <string name="data_restrict_day">Notification for day data restriction</string>
+    <string name="garbage_clean">Clear garbage files</string>
+    <string name="warning_msg">%1$s data used this month is over %2$d%% of the quotas</string>
+    <string name="warning_msg_month_SIM">%1$s data used this month is over the quotas</string>
+    <string name="warning_msg_day_SIM">%1$s data used today is over the quotas</string>
+    <string name="sim_changed">Different SIM card is detected, please reset the network management</string>
+    <string name="android_os">Android OS</string>
+    <string name="app_removed">Application removed</string>
+
+    <string name="network_speed">%1$s: %2$s</string>
+    <string name="data_used_lockscreen_title">Data used screen lock</string>
+    <string name="data_used_lockscreen_message">Data used in last screen lock state: %1$s</string>
+
+
+    <string name="can_rubbish_ram">Used: <xliff:g id="NUMPROCESS">%1$s</xliff:g>, freed: <xliff:g id="SPACEPROCESS">%2$s.</xliff:g></string>
+    <string name="used_ram"><xliff:g id="NUMPROCESS">%1$s</xliff:g> processes running, can free <xliff:g id="SPACEPROCESS">%2$s</xliff:g></string>
+    <string name="start_memory_button">Start</string>
+    <string name="end_memory_button">End</string>
+    <string name="doing_memory_button">Doing</string>
+    <string name="no_running_services">Nothing running.</string>
+    <string name="settings_safetylegal_activity_loading">Loading\u2026</string>
+    <string name="running_processes_header_apps">Apps</string>
+    <string name="service_process_name"><xliff:g id="process">%1$s</xliff:g></string>
+    <string name="service_client_name"><xliff:g id="client_name">%1$s</xliff:g></string>
+    <string name="service_started_by_app">Started by app.</string>
+    <string name="gs_per_used"><xliff:g id="USEDMEMORY">%1$s</xliff:g></string>
+    <!-- Descriptive text of a running process: singular process, singular service. -->
+    <string name="running_processes_item_description_s_s"><xliff:g id="numprocess">%1$d</xliff:g>        process and <xliff:g id="numservices">%2$d</xliff:g> service</string>
+    <!-- Descriptive text of a running process: singular process, plural service. -->
+    <string name="running_processes_item_description_s_p"><xliff:g id="numprocess">%1$d</xliff:g>        process and <xliff:g id="numservices">%2$d</xliff:g> services</string>
+    <!-- Descriptive text of a running process: plural process, singular service. -->
+    <string name="running_processes_item_description_p_s"><xliff:g id="numprocess">%1$d</xliff:g>        processes and <xliff:g id="numservices">%2$d</xliff:g> service</string>
+    <!-- Descriptive text of a running process: plural process, plural service. -->
+    <string name="running_processes_item_description_p_p"><xliff:g id="numprocess">%1$d</xliff:g>        processes and <xliff:g id="numservices">%2$d</xliff:g> services</string>
+    <string name="nothing_can_removed">Nothing background process can be removed</string>
+    <string name="cached">Cached background process</string>
+
+    <string name="batetry_hardware_list">Hardware rankings</string>
+    <string name="batetry_software_list">Software rankings</string>
+    <string name="controls_subtitle">Adjust power use</string>
+    <string name="details_subtitle">Use details</string>
+    <string name="battery_history_hours"><xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m <xliff:g id="seconds">%3$d</xliff:g>s</string>
+    <string name="battery_history_minutes"><xliff:g id="minutes">%1$d</xliff:g>m <xliff:g id="seconds">%2$d</xliff:g>s</string>
+    <string name="battery_history_seconds"><xliff:g id="seconds">%1$d</xliff:g>s</string>
+    <string name="battery_history_days_no_seconds"><xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m</string>
+    <string name="battery_history_hours_no_seconds"><xliff:g id="hours">%1$d</xliff:g>h <xliff:g id="minutes">%2$d</xliff:g>m</string>
+    <string name="battery_history_minutes_no_seconds"><xliff:g id="minutes">%1$d</xliff:g>m</string>
+    <string name="battery_history_days"><xliff:g id="days">%1$d</xliff:g>d <xliff:g id="hours">%2$d</xliff:g>h <xliff:g id="minutes">%3$d</xliff:g>m <xliff:g id="seconds">%4$d</xliff:g>s</string>
+    <string name="battery_history_millis"><xliff:g id="millis">%.2f</xliff:g>ms</string>
+
+    <string name="internal_storage">Storage</string>
+    <string name="external_storage">SD card</string>
+
+    <string name="cache_file">Cache files</string>
+    <string name="rubbish_file">Rubbish files</string>
+    <string name="invalid_file">Invalid files</string>
+    <string name="temp_file">Temp files</string>
+    <string name="large_file">Large files</string>
+    <string name="storage_size">0</string>
+    <string name="score_storage_label">M</string>
+    <string name="symbol">">"</string>
+    <string name="start_scan_button">Start</string>
+    <string name="stop_scan_button">Stop</string>
+    <string name="clean_memory_button">Clean</string>
+    <string name="doing_scan_memory_button">Scanning</string>
+    <string name="end_clean_memory_button">Clean over</string>
+    <string name="clear_memory">No Rubbish Files</string>
+    <string name="already_checked">Checked Size</string>
+    <string name="clean_storage_menu">Clear</string>
+    <string name="cleaning_wait">Clean is ongoing, please wait</string>
+    <string name="use_gs_in_owner">Please use General Security in owner mode, it will not be shown here later</string>
+    <string name="max_data_flow_value">Max value exceeded, set to 5000000</string>
+
+    <string name="byteShort">B</string>
+    <!-- Suffix added to a number to signify size in kilobytes. -->
+    <string name="kilobyteShort">KB</string>
+    <!-- Suffix added to a number to signify size in megabytes. -->
+    <string name="megabyteShort">MB</string>
+    <!-- Suffix added to a number to signify size in gigabytes. -->
+    <string name="gigabyteShort">GB</string>
+    <!-- Suffix added to a number to signify size in terabytes. -->
+    <string name="terabyteShort">TB</string>
+    <!-- Suffix added to a number to signify size in petabytes. -->
+    <string name="petabyteShort">PB</string>
+    <string name="fileSizeSuffix"><xliff:g example="123" id="number">%1$s</xliff:g><xliff:g example="KB" id="unit">%2$s</xliff:g></string>
+    <string name="sdcard_state_inserted">SD card has been inserted</string>
+    <string name="sdcard_state_removed">SD card has been removed</string>
+    <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
+    <string name="score_label"></string>
+    <string name="start_optimize_button">Optimize</string>
+    <string name="stop_optimize_button">Stop</string>
+    <string name="scanning">Scanning...</string>
+    <string name="optimizing">Optimizing</string>
+    <string name="start_optimize_prompt">The phone is safe and click the button below to optimize it</string>
+    <string name="keep_prompt">The phone is safe, please keep</string>
+    <string name="stop_optimize_prompt">The system is optimizing and click the button below to stop</string>
+    <string name="rubbish_file_scan">Rubbish files scan</string>
+    <string name="prepare_optimize">Optimizing...</string>
+    <string name="finish_optimize">Done</string>
+    <string name="month_data_remained">Remaining data %1$s this month</string>
+    <string name="running_process">Running apps</string>
+    <string name="data_control">Data flow set</string>
+    <string name="clean_rubbish"><xliff:g id="NUMRUBBISH">%1$s</xliff:g> of trash have been cleaned up</string>
+    <string name="no_rubbish">No trash</string>
+    <string name="clean_running_process"><xliff:g id="NUMPROCESS">%1$s</xliff:g> apps closed, freed <xliff:g id="SPACEPROCESS">%2$s</xliff:g> of memory</string>
+    <string name="data_set">Data plan has set</string>
+    <string name="file_type_name">unknown file</string>
+    <string name="file_type_size">0M</string>
+    <string name="file_current_size">%1$s</string>
+    <string name="file_cleaned">can be cleared.</string>
+    <string name="file_uncleaned">handle carefully.</string>
+
+    <string name="file_bak_ext">Bak file</string>
+    <string name="file_log_ext">Log file</string>
+    <string name="file_tmp_ext">Temp file</string>
+    <string name="file_apk_ext">Invalid file</string>
+    <string name="file_cache1_ext">App system cache</string>
+    <string name="file_cache2_ext">App cache file</string>
+    <string name="file_large_ext">Others Large File</string>
+    <string name="file_large_audio_ext">Audio File</string>
+    <string name="file_large_video_ext">Video File</string>
+
+    <string name="df_remained">%1$s</string>
+    <string name="df_remained_title">remained data flow</string>
+    <string name="df_all_title">total:</string>
+    <string name="network_control_software">Network software</string>
+    <string name="network_sorderbydata">Mobile data ranking</string>
+    <string name="network_sorderbywlan">Wi\u2011Fi usage ranking</string>
+    <string name="data_str">Data:</string>
+    <string name="wifi_str">Wi\u2011Fi:</string>
+    <string name="data_flow">0M</string>
+    <string name="wifi_flow">0M</string>
+    <string name="warning_remain_msg">%1$s data used this month is lower the month restrict</string>
+
+    <string name="data_flow1">Data: %1$s</string>
+    <string name="wifi_flow1">Wi\u2011Fi: %1$s</string>
+
+    <string name="sim_count_change">SIM card change, please re-enter.</string>
+
+</resources>

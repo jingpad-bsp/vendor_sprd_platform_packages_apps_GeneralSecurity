@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"螢幕亮度"</item>
+<item>"螢幕待機"</item>
+<item>"Wi‑Fi"</item>
+<item>"GPS"</item>
+<item>"藍牙"</item>
+<item>"觸摸時振動和提示"</item>
+<item>"震動"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"螢幕亮度"</item>
+<item>"螢幕待機"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"藍牙"</item>
+<item>"WLAN熱點"</item>
+<item>"觸摸時振動和提示"</item>
+<item>"移動數據"</item>
+<item>"自動同步"</item>
+<item>"震動"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"螢幕亮度"</item>
+<item>"螢幕待機"</item>
+<item>"WLAN"</item>
+<item>"移動數據"</item>
+<item>"GPS"</item>
+<item>"藍牙"</item>
+<item>"自動同步"</item>
+<item>"WLAN熱點"</item>
+<item>"觸摸時振動和提示"</item>
+<item>"飛行模式"</item>
+<item>"震動"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"是否切換？"</item>
+<item>"關閉自動同步將導致部分應用無法自動同步資料,是否切換？"</item>
+</string-array>
+</resources>

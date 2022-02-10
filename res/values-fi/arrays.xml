@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Näytön kirkkaus"</item>
+<item>"Näytön valmiustila"</item>
+<item>"Wi-Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Värinä ja muistutus koskiessa"</item>
+<item>Värinä</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Näytön kirkkaus"</item>
+<item>"Näytön valmiustila"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"Värinä ja muistutus koskiessa"</item>
+<item>"Datayhteys"</item>
+<item>"automaattinen synkronointi"</item>
+<item>Värinä</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Näytön kirkkaus"</item>
+<item>"Näytön valmiustila"</item>
+<item>"WLAN"</item>
+<item>"Datayhteys"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"automaattinen synkronointi"</item>
+<item>"Wi-Fi hotspot"</item>
+<item>"Värinä ja muistutus koskiessa"</item>
+<item>"Lentokonetila"</item>
+<item>Värinä</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Vaihdetaanko?"</item>
+<item>"Automaattisen synkronoinnin sammutus saa joidenkin sovellusten synkronoinnin epäonnistumaan, vaihdetaanko?" </item>
+</string-array>
+</resources>

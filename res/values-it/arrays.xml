@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"Luminosità schermo"</item>
+<item>"Schermata di standby"</item>
+<item>"Wi‑Fi"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Vibra e notifica alla pressione"</item>
+<item>Vibrazione</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"Luminosità schermo"</item>
+<item>"Schermata di standby"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>hotspot Wifi</item>
+<item>"Vibra e notifica alla pressione"</item>
+<item>"Connessione dati"</item>
+<item>"Sincronizzazione automatica"</item>
+<item>Vibrazione</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"Luminosità schermo"</item>
+<item>"Schermata di standby"</item>
+<item>"WLAN"</item>
+<item>"Connessione dati"</item>
+<item>"GPS"</item>
+<item>"Bluetooth"</item>
+<item>"Sincronizzazione automatica"</item>
+<item>hotspot Wifi</item>
+<item>"Vibra e notifica alla pressione"</item>
+<item>"Modalità aereo"</item>
+<item>Vibrazione</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"Cambiare?"</item>
+<item>"Disattivando la sincronizzazione automatica si impedirà alle app di sincronizzare i dati automaticamente, continuare?"</item>
+</string-array>
+</resources>

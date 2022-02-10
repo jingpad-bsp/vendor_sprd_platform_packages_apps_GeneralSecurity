@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mode_title">
+<item>"ድምቀተ-ብርሃን ናይ መስኮት ተሌፎን"</item>
+<item>"ድልዊ መስኮት"</item>
+<item>"ዋይ\u2011ፋይ"</item>
+<item>"GPS"</item>
+<item>"ብሉቱዝ"</item>
+<item>"ኣብ እትትንከፍሉ እዋን ነዝነዝታ ግበሪን ኣዘኻኽሪን"</item>
+<item>"ቪብሪት"</item>
+</string-array>
+<string-array name="title_for_long">
+<item>"ድምቀተ-ብርሃን ናይ መስኮት ተሌፎን"</item>
+<item>"ድልዊ መስኮት"</item>
+<item>"WLAN"</item>
+<item>"GPS"</item>
+<item>"ብሉቱዝ"</item>
+<item>"Wi-Fi ሆትስፖት"</item>
+<item>"ኣብ እትትንከፍሉ እዋን ነዝነዝታ ግበሪን ኣዘኻኽሪን"</item>
+<item>"መስመር ርክብ ናይ ክዙን ሓበሬታ"</item>
+<item>"ኣውቶማቲካዊ መስርሕ ምጥዕዓም ተሳንዮት"</item>
+<item>"ቪብሪት"</item>
+</string-array>
+<string-array name="title_for_sleep">
+<item>"ድምቀተ-ብርሃን ናይ መስኮት ተሌፎን"</item>
+<item>"ድልዊ መስኮት"</item>
+<item>"WLAN"</item>
+<item>"መስመር ርክብ ናይ ክዙን ሓበሬታ"</item>
+<item>"GPS"</item>
+<item>"ብሉቱዝ"</item>
+<item>"ኣውቶማቲካዊ መስርሕ ምጥዕዓም ተሳንዮት"</item>
+<item>"Wi-Fi ሆትስፖት"</item>
+<item>"ኣብ እትትንከፍሉ እዋን ነዝነዝታ ግበሪን ኣዘኻኽሪን"</item>
+<item>"በረራ ሞድ"</item>
+<item>"ቪብሪት"</item>
+</string-array>
+<string-array name="ask_for_dialog">
+<item>"ክትቅይሩ/ክትውልዑ?"</item>
+<item>"ንኣውቶማቲካዊ መስርሕ ምጥዕዓም ተሳንዮት ምጥፋእ፡ ንገለ ኣፕሊኬሽናት ብቐጥታዊ መገዲ ክዙን ሓበሬታ ከምዘይረኽቡ እዩ ዝገብር፤ ክትውልዕዎ ትደልዩ ዶ?"</item>
+</string-array>
+</resources>
